@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![visitors](https://visitor-badge.deta.dev/badge?page_id=atduongg&left_color=red&right_color=green)
 <!--
 **atduongg/atduongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
